@@ -28,6 +28,6 @@
 	<link href="{{ asset('css/styles.css') }}" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png">
+    <link rel="icon" href="{{ asset('images/favicon.png') }}">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
